@@ -5,7 +5,7 @@ This repository documents my solutions to algorithmic challenges from [Project E
 * Each problem includes the solution and a companion file (e.g., explanation.md) that outlines the problem statement, the mathematical derivation, and a breakdown of the algorithm used.
 
 ### The Rules: 
-* To respect the community ethos of Project Euler, I will only publish solutions for problems 1 through 100. I will not share solutions for higher-level problems publicly to avoid spoiling the challenge for others.
+* To respect the community ethos of Project Euler, I will only publish solutions for problems 1 through 100. I will not share solutions for higher-level problems publicly to avoid spoiling the challenge for others. The actual numerical solution will also not be included, the code must be run to get the solution.
 
 ### Tech Details:
 * Most solutions are written in Python. I aim to adhere to the "one-minute rule," ensuring that every solution executes in under 60 seconds.
