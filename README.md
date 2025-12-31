@@ -11,4 +11,4 @@ This repository documents my solutions to algorithmic challenges from [Project E
 * Most solutions are written in Python. I aim to adhere to the "one-minute rule," ensuring that every solution executes in under 60 seconds.
 
 # Current Solutions:
-* (Solutions coming soon:)
+* **Problem 1:** [Multiples of 3 or 5](./Problem-1)
