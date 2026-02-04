@@ -13,3 +13,4 @@ This repository documents my solutions to algorithmic challenges from [Project E
 # Current Solutions:
 * **Problem 1:** [Multiples of 3 or 5](./Problem-1)
 * **Problem 2:** [Even Fibonacci Numbers](./Problem-2)
+* **Problem 3:** [Largest Prime Factor (Explanation Coming Soon)](./Problem-3)
