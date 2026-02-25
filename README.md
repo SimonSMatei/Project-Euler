@@ -1,5 +1,5 @@
 # Project Euler Showcase
-This repository documents my solutions to algorithmic challenges from [Project Euler](https://projecteuler.net/about). My focus here is on writing clean, readable code and finding mathematically efficient solutions rather than using brute force, although several solutions may be brute force to begin with. I plan on solving new problems while also reviewing old solutions to implement new ideas to create efficient new solutions. Beyond just the code, I believe in documenting the process. I want to understand the 'why.' For every solution, I have included a separate text file explaining the logic behind the math and how I arrived at the final code
+This repository documents my solutions to algorithmic challenges from [Project Euler](https://projecteuler.net/about). My focus here is on writing clean, readable code and finding mathematically efficient solutions rather than using brute force, although several solutions may be brute force to begin with. I plan on solving new problems while also reviewing old solutions to implement new ideas to create efficient new solutions. Beyond just the code, I believe in documenting the process. I want to understand the 'why.' For every solution, I have included a separate text file explaining the logic behind the math and how I arrived at the final code. 
 
 ### Documentation:
 * Each problem includes the solution and a companion file (e.g., explanation.md) that outlines the problem statement, the mathematical derivation, and a breakdown of the algorithm used.
@@ -23,3 +23,7 @@ This repository documents my solutions to algorithmic challenges from [Project E
 * **Problem 22:** [Names Scores (Explanation Coming Soon)](./Problem-022)
 * **Problem 23:** [Non-Abundant Sums (Explanation Coming Soon)](./Problem-023)
 * **Problem 24:** [Lexicographic Permutations (Explanation Coming Soon)](./Problem-024)
+
+---
+
+**A Note on Current Progress:** I am currently uploading my working solutions as I complete them, which means some of the code represents my initial, unoptimized approaches. I am holding off on uploading the detailed explanation files until I have had a chance to review, refactor, and fully optimize these early solutions.
