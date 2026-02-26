@@ -24,6 +24,7 @@ This repository documents my solutions to algorithmic challenges from [Project E
 * **Problem 22:** [Names Scores (Explanation Coming Soon)](./Problem-022)
 * **Problem 23:** [Non-Abundant Sums (Explanation Coming Soon)](./Problem-023)
 * **Problem 24:** [Lexicographic Permutations (Explanation Coming Soon)](./Problem-024)
+* **Problem 28:** [Number Spiral Diagonals (Explanation Coming Soon)](./Problem-028)
 
 ---
 
