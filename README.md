@@ -18,6 +18,7 @@ This repository documents my solutions to algorithmic challenges from [Project E
 * **Problem 5:** [Smallest Multiple (Explanation Coming Soon)](./Problem-005)
 * **Problem 6:** [Sum Square Difference (Explanation Coming Soon)](./Problem-006)
 * **Problem 7:** [10 001st Prime (Explanation Coming Soon)](./Problem-007)
+* **Problem 16:** [Power Digit Sum (Explanation Coming Soon)](./Problem-016)
 * **Problem 17:** [Number Letter Counts (Explanation Coming Soon)](./Problem-017)
 * **Problem 21:** [Amicable Numbers (Explanation Coming Soon)](./Problem-021)
 * **Problem 22:** [Names Scores (Explanation Coming Soon)](./Problem-022)
